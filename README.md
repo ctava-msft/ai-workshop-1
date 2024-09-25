@@ -10,7 +10,7 @@ languages:
 - arm
 - json
 ---
-# Setup Azure ML Studio with GPU Compute and other resources
+# Setup Azure ML Studio and other resources
 
 [![Deploy to Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fctava-msft%2Fai-workshop-1%2Fmain%2Fazuredeploy.json)
 
