@@ -18,15 +18,15 @@ The key tasks are as follows:
 
 1. Use [Azure ML Studio](https://ml.azure.com) to upload a notebook.
 
-![Notebooks](images/notebooks.png)
+![Notebooks](Images/notebooks.png)
 
 2. The use the add files (+) to add the `diabetes.ipynb` file.
 
-![upload1](images/upload1.png)
+![upload1](Images/upload1.png)
 
 3. Run all cells with the Pyspark Serverless Compute and Kernel.
 
-![run](images/run.png)
+![run](Images/run.png)
 
 ## Success Criteria
 

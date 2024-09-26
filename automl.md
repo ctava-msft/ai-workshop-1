@@ -18,27 +18,27 @@ The key tasks are as follows:
 
 1. Use [Azure ML Studio](https://ml.azure.com) to kick off an Automated ML Job.
 
-![automated-job](images/automated-job.png)
+![automated-job](Images/automated-job.png)
 
 2. Fill in the job and experiment name and click next.
 
-![automated-job-1](images/automated-job-1.png)
+![automated-job-1](Images/automated-job-1.png)
 
 3. Select task type as Classification and choose Pima for the dataset and click next.
 
-![automated-job-2](images/automated-job-2.png)
+![automated-job-2](Images/automated-job-2.png)
 
 4. For the target column choose Outcome and for the Experiment timeout (minutes) enter 15.
 
-![automated-job-3](images/automated-job-3.png)
+![automated-job-3](Images/automated-job-3.png)
 
 5. Select Serverless Compute and a VM and click next.
 
-![automated-job-4](images/automated-job-4.png)
+![automated-job-4](Images/automated-job-4.png)
 
 6. Click on Submit training job.
 
-![automated-job-5](images/automated-job-5.png)
+![automated-job-5](Images/automated-job-5.png)
 
 ## Success Criteria
 
