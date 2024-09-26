@@ -32,6 +32,14 @@ The key tasks are as follows:
 
 ![automated-job-3](images/automated-job-3.png)
 
+5. Select Serverless Compute and a VM and click next.
+
+![automated-job-4](images/automated-job-4.png)
+
+6. Click on Submit training job.
+
+![automated-job-5](images/automated-job-5.png)
+
 ## Success Criteria
 
 * AutoML job runs and completes in 15 minutes. It should highlight which features are the most important to the performance of the model. All artifacts are generated and stored inside the storage account and container.
