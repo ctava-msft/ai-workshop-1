@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Introduction
 
-In an effort to introduce the use of ML in their organization, Quality Healthcare has identified the need to study the cardio fitness of its patients and identify their favorite products to evangelize fitness.
+Quality Healthcare has identified the need to study the patients to determine if they are susceptible to developing diabetes.
 
 ## Description
 
