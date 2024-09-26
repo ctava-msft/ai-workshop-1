@@ -1,0 +1,37 @@
+---
+title: automl
+layout: home
+nav_order: 1
+---
+
+# Use AutoML in Azure ML Studio
+
+## Introduction
+
+Quality Healthcare has identified the need to develop a model to predict if patients will develop diabetes.
+
+## Description
+
+In this task, you will leverage the AutoML and compute to train a model to predict patient outcome of having diabetes or not.
+
+The key tasks are as follows:
+
+1. Use [Azure ML Studio](https://ml.azure.com) to kick off an Automated ML Job.
+
+![automated-job](images/automated-job.png)
+
+2. Fill in the job and experiment name and click next.
+
+![automated-job-1](images/automated-job-1.png)
+
+3. Select task type as Classification and choose Pima for the dataset and click next.
+
+![automated-job-2](images/automated-job-2.png)
+
+4. For the target column choose Outcome and for the Experiment timeout (minutes) enter 15.
+
+![automated-job-3](images/automated-job-3.png)
+
+## Success Criteria
+
+* AutoML job runs and completes in 15 minutes. It should highlight which features are the most important to the performance of the model. All artifacts are generated and stored inside the storage account and container.
