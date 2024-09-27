@@ -14,7 +14,17 @@ Quality Healthcare has identified the need to develop a model to predict if pati
 
 In this task, you will leverage the AutoML and compute to train a model to predict patient outcome of having diabetes or not.
 
-The key tasks are as follows:
+To build a dataset inside of ML Studio please follow these steps off an AutoML job here are the following key tasks:
+
+1. The following steps are used to setup data within ML Studio:
+
+![data1](Images/data-1.png)
+![data2](Images/data-2.png)
+![data3](Images/data-3.png)
+![data4](Images/data-4.png)
+
+
+To kick off an AutoML job here are the following key tasks:
 
 1. Use [Azure ML Studio](https://ml.azure.com) to kick off an Automated ML Job.
 
